@@ -1,7 +1,4 @@
-<p style="text-align:rtl">
-با استفاده از کتابخانه مشتری pytse اطلاعات سهام را دریافت می کند و آنها را با استفاده از کتابخانه Streamlit به یک برنامه وب تبدیل می کند
-این پروژه یک آزمون و آموزش است
-</p>
+<h1>دریافت اطلاعات بورس بصورت وب اپلیکیشن</h1>
 Receives stock information using the pytse client library and converts it into a web application using the Streamlit library
 This project is a test and training
 
