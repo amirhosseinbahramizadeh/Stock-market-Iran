@@ -3,6 +3,6 @@ Receives stock information using the pytse client library and converts it into a
 This project is a test and training
 We are happy to help you solve problems
 
-Pip install streamlit
+<b>Pip install streamlit</b>
 <br>
-Pip install pytse client
+<b>Pip install pytse client</b>
