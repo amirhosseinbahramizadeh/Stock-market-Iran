@@ -4,4 +4,5 @@ This project is a test and training
 We are happy to help you solve problems
 
 Pip install streamlit
+<br>
 Pip install pytse client
