@@ -6,3 +6,12 @@ This project is a test and training
 <b><code>Pip install streamlit</code></b>
 <br>
 <b><code>Pip install pytse client</code></b>
+
+
+<b>حمایت از ما : 
+<br>
+با ترون 
+  <br>
+ TKQERtuFnMebxBsTt64VQ4rVP8frmXNJqp : کیف پول ترون
+  
+</b>
